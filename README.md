@@ -26,6 +26,13 @@ I specialize in turning **complex datasets into actionable insights** that drive
 ## 🎓 Licenses & Certifications  
 
 ### 📊 Data Science & Analytics
+
+
+- **Python Project for Data Science**  – Coursera (Issued oct 2022)
+- **Python for Data Science, AI & Development**  – IBM (Issued oct 2025)
+- **The Data Science of Experimental Design**  – LinkedIn (Issued oct 2025) 
+- **Tools for Data Science V2**  – Coursera (Issued oct 2022)
+- **[PCEP-30-02] PCEP™ – Certified Entry-Level Python Programmer**  – Python Institute (Issued Oct 2025) 
 - **The Data Science of Experimental Design** – LinkedIn (Issued Oct 2025)  
 - **Statistics Foundations 1: The Basics** – NASBA (Issued Sep 2025)  
 - **Retrieving, Processing, and Visualizing Data with Python** – Coursera (Issued Feb 2022)  
@@ -65,7 +72,7 @@ I specialize in turning **complex datasets into actionable insights** that drive
 ---
 
 ## 📈 GitHub Stats
-![Reza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Reza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=metalmancode&show_icons=true&theme=radical)
 
 ---
 
