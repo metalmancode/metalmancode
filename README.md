@@ -27,10 +27,10 @@ I specialize in turning **complex datasets into actionable insights** that drive
 
 ### 📊 Data Science & Analytics
 
-
-- **Python Project for Data Science**  – Coursera (Issued oct 2022)
-- **Python for Data Science, AI & Development**  – IBM (Issued oct 2025)
-- **The Data Science of Experimental Design**  – LinkedIn (Issued oct 2025) 
+- **Data Analysis with Python**  – IBM - Coursera (Issued Nov 2025)
+- **Python Project for Data Science**  – Coursera (Issued Oct 2022)
+- **Python for Data Science, AI & Development**  – IBM - Coursera (Issued oct 2025)
+- **The Data Science of Experimental Design**  – LinkedIn (Issued Oct 2025) 
 - **Tools for Data Science V2**  – Coursera (Issued oct 2022)
 - **[PCEP-30-02] PCEP™ – Certified Entry-Level Python Programmer**  – Python Institute (Issued Oct 2025) 
 - **The Data Science of Experimental Design** – LinkedIn (Issued Oct 2025)  
