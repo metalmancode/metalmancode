@@ -10,9 +10,9 @@ I specialize in turning **complex datasets into actionable insights** that drive
 
 ## 🔧 Skills & Expertise
 - **Data Science & Machine Learning** *(Aspiring & Actively Learning)*  
-- **Programming & Data Analysis:** Python, SQL, Power BI, Excel  
-- **Data Management & BI Tools:** ETL/ELT, Data Visualization, Dashboards  
-- **Microsoft Ecosystem:** Power Platform, Office 365, SharePoint  
+- **Programming & Data Analysis:** Python, SQL, Excel, Googel sheets  
+- **Data Management & BI Tools:** ETL/ELT, BigQuery, Data Visualization, Power BI, Dashboards, Looker Studio 
+- **Microsoft Ecosystem:** Azure, Power Platform, Office 365, SharePoint  
 - **IT & Systems Architecture:** 20+ years of expertise in IT, development, and system design  
 
 ---
@@ -65,7 +65,7 @@ I specialize in turning **complex datasets into actionable insights** that drive
 
 ### 🌍 Languages & Other
 - **Deutsch B2** – telc GmbH (Issued Jun 2021)  
-- **English B2** – Kiron Open Higher Education  
+- **English C1** – BA in English 
 - **Workplace English Course** – EnglishScore (Issued Aug 2020)  
 - **How to Be an Online Learner** – Kiron Open Higher Education (Issued Aug 2020)
 
