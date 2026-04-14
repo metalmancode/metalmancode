@@ -25,7 +25,7 @@ I specialize in turning **complex datasets into actionable insights** that drive
 ---
 ## 🎓 Licenses & Certifications  
 
-### 📊 Data Science & Analytics
+### 📊 Data Science & ML & AI
 
 - **IBM Data Science Professional Certificate (V3)**  – IBM - Coursera (Issued Apr 2026)
 - **Generative AI Essentials for Data Science**  – IBM - Coursera (Issued Apr 2026)
