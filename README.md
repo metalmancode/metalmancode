@@ -27,6 +27,12 @@ I specialize in turning **complex datasets into actionable insights** that drive
 
 ### 📊 Data Science & Analytics
 
+- **IBM Data Science Professional Certificate (V3)**  – IBM - Coursera (Issued Apr 2026)
+- **Generative AI Essentials for Data Science**  – IBM - Coursera (Issued Apr 2026)
+- **Applied Data Science Capstone**  – IBM - Coursera (Issued Apr 2026)
+- **Data Visualization with Python**  – IBM - Coursera (Issued Apr 2026)
+- **Machine Learning with Python**  – IBM - Coursera (Issued Mrs 2026)
+- **Azure Data Fundamentals**  – Microsoft Certified - (Issued Jan 2026)
 - **Data Analysis with Python**  – IBM - Coursera (Issued Nov 2025)
 - **Python Project for Data Science**  – Coursera (Issued Oct 2022)
 - **Python for Data Science, AI & Development**  – IBM - Coursera (Issued oct 2025)
