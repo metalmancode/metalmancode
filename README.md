@@ -27,6 +27,10 @@ I specialize in turning **complex datasets into actionable insights** that drive
 
 ### 📊 Data Science & ML & AI
 
+
+- **Generative AI: Prompt Engineering**  – IBM - Coursera (Issued May 2026)
+- **Generative AI Essentials**  – IBM - Coursera (Issued May 2026)
+- **Artificial Intelligence Essentials V2 Certificate (V2)**  – IBM - Coursera (Issued May 2026)
 - **IBM Data Science Professional Certificate (V3)**  – IBM - Coursera (Issued Apr 2026)
 - **Generative AI Essentials for Data Science**  – IBM - Coursera (Issued Apr 2026)
 - **Applied Data Science Capstone**  – IBM - Coursera (Issued Apr 2026)
