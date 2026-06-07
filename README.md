@@ -1,339 +1,156 @@
-# Hi there, I'm Reza Rashidi
+# Reza Rashidi
 
-**Data Scientist | AI & Machine Learning Developer | AutoML Builder | Data Analyst | IT Architect**
+Data Scientist & AI/ML Developer focused on practical machine learning, AutoML, data analysis, and privacy-aware AI products.
 
-I am a Data Scientist and AI/ML developer with more than **20 years of experience** in IT, business intelligence, software development, data analysis, and systems architecture.
+I bring 20+ years of professional experience across IT, business intelligence, software development, data analysis, and systems architecture. My current work focuses on building practical machine learning tools that connect real-world business data with usable AI/ML workflows.
 
-My current focus is building practical, privacy-aware machine learning tools that make data science more accessible for real-world users.
-
-My main project is **MLdeck** — a browser-based, privacy-first AutoML application that allows users to train, compare, explain, and export machine learning models directly from CSV files while keeping raw data on their own computer.
+My main product project is MLdeck, a browser-local, privacy-first AutoML MVP / early beta for CSV-based machine learning workflows.
 
 ---
 
-## About Me
+## Main Project: MLdeck
 
-I combine a long professional background in IT and business intelligence with modern data science, AI, and machine learning.
+MLdeck helps users upload CSV data, inspect datasets, select features and targets, train and compare models, review baseline performance, detect data-quality and leakage risks, generate reports, and export validation-oriented artifacts.
 
-My strength is not only building models, but also understanding the full path from raw business data to useful software:
-
-- Data cleaning and preparation
-- Feature and target selection
-- Machine learning model training
-- Model comparison and evaluation
-- Baseline and validation logic
-- Explainability and reporting
-- Export-ready artifacts
-- User-friendly product design
-- Privacy-conscious architecture
-
-This combination allows me to build tools that are technically meaningful, understandable for users, and useful in practical business scenarios.
-
----
-
-## Core Focus
-
-- Applied Machine Learning
-- AutoML
-- Browser-based AI/ML applications
-- Privacy-first data products
-- Data analysis and business intelligence
-- Predictive modeling
-- Model evaluation and validation
-- AI-assisted software development
-- Data visualization and reporting
-- Practical AI tools for non-technical users
-
----
-
-## Featured Project: MLdeck
-
-MLdeck is my browser-local, privacy-first AutoML MVP / early beta for CSV-based machine learning workflows.
-
-It supports CSV upload, profiling, feature and target selection, preprocessing, model comparison, baseline comparison, data-quality warnings, and export artifacts for validation/testing.
+During normal browser training flows, raw CSV data is not uploaded to MLdeck servers.
 
 - Website: https://mldeck.com/
 - Public documentation: https://github.com/metalmancode/mldeck
 - Browser-based AutoML: https://mldeck.com/browser-based-automl
 - Privacy-first AutoML: https://mldeck.com/privacy-first-automl
+- Local AutoML for CSV: https://mldeck.com/local-automl-csv
 - ONNX export workflow: https://mldeck.com/examples/onnx-export-workflow
-The core principle:
+- Local AutoML vs Cloud AutoML: https://mldeck.com/compare/local-automl-vs-cloud-automl
 
-**Your data stays on your computer.**
-
----
-
-### What MLdeck Does
-
-MLdeck allows users to:
-
-- Upload CSV files locally in the browser
-- Profile and inspect datasets
-- Select feature columns and target columns
-- Handle preprocessing steps
-- Train machine learning models
-- Compare models in a leaderboard
-- Review baseline models
-- See model performance differences against baseline
-- Detect data-quality and leakage-risk warnings
-- View explainability outputs
-- Generate PDF reports
-- Export model packages and metadata
-- Work in a no-code / low-code interface
+Maturity note: MLdeck results should be treated as exploratory unless strict validation has been run. Exported artifacts should be tested before use outside MLdeck.
 
 ---
 
-### Why MLdeck Matters
+## Professional Focus
 
-Many AutoML tools are powerful but heavy, cloud-dependent, expensive, or too complex for smaller teams, students, educators, analysts, and privacy-sensitive users.
-
-MLdeck focuses on a different space:
-
-- Fast exploratory machine learning
-- Local-first privacy
-- Simple CSV-based workflows
-- No-code / low-code interaction
-- Clear model comparison
-- Practical reporting
-- Educational transparency
-- Lightweight browser-based experimentation
-
-It is especially suitable for:
-
-- Students and educators
-- Data science learning
-- Small business analytics
-- Privacy-sensitive prototyping
-- Internal proof-of-concept work
-- CSV-based business datasets
-- Early model exploration before larger production pipelines
-
----
-
-### Current MLdeck Capabilities
-
-MLdeck currently includes:
-
-- CSV upload and dataset profiling
-- Feature and target selection
-- Classification and regression support
-- Baseline models
-- Delta vs baseline comparison
-- Improved model ranking policy
-- Data-quality warnings
-- Leakage-risk warnings
-- Exploratory validation logic
-- Model leaderboard
-- Model explanations
-- PDF reporting
-- Export package generation
-- Browser-local workflow design
-- User-friendly interface with dynamic help and guidance
-
-The product is currently positioned as a strong prototype / early beta MVP for exploratory machine learning and demo-ready workflows.
-
----
-
-### MLdeck Product Philosophy
-
-MLdeck is built around several principles:
-
-- **Privacy first:** raw user data should remain local whenever possible
-- **Clarity:** users should understand what the model is doing
-- **Practicality:** outputs should be useful, not only technical
-- **Transparency:** reports should explain metrics, baselines, and warnings
-- **Accessibility:** machine learning should be usable without deep coding knowledge
-- **Trust:** validation, warnings, and export metadata should be honest about limitations
+- Applied machine learning and AutoML
+- CSV-based machine learning workflows
+- Data preprocessing and feature engineering
+- Model evaluation, baseline comparison, and validation
+- Data-quality and target-leakage awareness
+- Explainability, reporting, and export artifacts
+- Business intelligence and KPI reporting
+- Privacy-aware data products
+- AI-assisted software development
+- Practical tools for analysts, students, educators, and small teams
 
 ---
 
 ## Technical Skills
 
-### Data Science & Machine Learning
+Data Science & ML: Python, Pandas, NumPy, Scikit-learn, Jupyter, classification, regression, exploratory data analysis, preprocessing, feature engineering, model evaluation, baseline modeling, validation concepts, leakage-risk review, explainability concepts, AutoML workflows.
 
-- Exploratory Data Analysis
-- Data preprocessing
-- Feature engineering
-- Classification
-- Regression
-- Model evaluation
-- Baseline modeling
-- Validation concepts
-- Data leakage awareness
-- Explainability concepts
-- AutoML workflows
-- Scikit-learn
-- Pandas
-- NumPy
-- Jupyter Notebook
+AI & Generative AI: prompt engineering, generative AI workflows, retrieval-augmented generation concepts, AI-assisted development, practical AI application design, AI product thinking.
 
-### AI & Generative AI
+Programming & Web: TypeScript, JavaScript, SQL, HTML/CSS, software architecture, technical documentation, user-oriented product workflows.
 
-- Prompt engineering
-- Generative AI workflows
-- AI-assisted development
-- Retrieval-Augmented Generation concepts
-- Practical AI application design
-- AI product thinking
+BI & Data Platforms: Power BI, Looker Studio, BigQuery, Excel, Google Sheets, dashboards, reporting systems, ETL/ELT concepts, KPI analysis, business data modeling.
 
-### Programming & Data Analysis
-
-- Python
-- SQL
-- TypeScript
-- JavaScript
-- Excel
-- Google Sheets
-- Data cleaning
-- Data transformation
-- Data visualization
-
-### Business Intelligence & Data Platforms
-
-- Power BI
-- Looker Studio
-- BigQuery
-- Dashboards
-- Reporting systems
-- ETL / ELT
-- Business data analysis
-- KPI reporting
-- Data modeling
-
-### Microsoft & Cloud Ecosystem
-
-- Microsoft Azure
-- Azure Data Fundamentals
-- Microsoft Power Platform
-- Office 365
-- SharePoint
-
-### IT & Systems Architecture
-
-- IT architecture
-- System design
-- Software development
-- Infrastructure administration
-- Network administration
-- Technical documentation
-- Process optimization
-- Business-IT alignment
+Cloud, Microsoft & IT Systems: Microsoft Azure, Azure Data Fundamentals, Power Platform, Office 365, SharePoint, IT architecture, infrastructure administration, network administration, process optimization, business-IT alignment.
 
 ---
 
-## Selected Projects
+## Pinned Projects
 
-### MLdeck — Privacy-First Browser AutoML
+### MLdeck — Browser-Local Privacy-First AutoML
 
-A browser-based AutoML application for CSV-based machine learning workflows. It supports dataset profiling, model training, baseline comparison, leaderboard ranking, warnings, explanations, reports, and export packages.
+Public documentation and examples for MLdeck, my browser-local privacy-first AutoML product for CSV workflows.
+
+- Product website: https://mldeck.com/
+- Browser-based AutoML: https://mldeck.com/browser-based-automl
+- Privacy-first AutoML: https://mldeck.com/privacy-first-automl
+
+### RAG Project
+
+A retrieval-augmented generation experiment focused on combining external knowledge retrieval with generative AI responses.
+
+### Basic Chatbot
+
+A Python chatbot project focused on basic conversational interaction and practical AI workflow experimentation.
+
+### Basic Chatbot Upgraded
+
+An upgraded chatbot implementation extending the earlier chatbot workflow with improved structure and interaction design.
+
+### Emotion Detection
+
+A Python-based machine learning project focused on text or input classification for emotion detection.
 
 ### Voice Assistant
 
 A web-based AI voice assistant using speech-to-text, text-to-speech, and GPT-based interaction.
 
-### RAG Project
+---
 
-A Retrieval-Augmented Generation experiment focused on combining external knowledge retrieval with generative AI responses.
+## Additional Selected Projects
 
 ### SpaceX Falcon 9 Landing Prediction
 
-A machine learning capstone project using classification techniques to predict Falcon 9 landing outcomes.
+IBM Data Science capstone project using classification techniques to predict Falcon 9 landing outcomes.
 
 ### Australia Rainfall Prediction
 
-A machine learning project using classification pipelines and model evaluation for weather-related prediction.
+A machine learning classification project using Scikit-learn pipelines, model comparison, and GridSearchCV for weather-related prediction.
+
+### Bee-Haven Azure Lakehouse
+
+Azure data lakehouse project for apiculture analytics using Azure Data Factory and Synapse-oriented data architecture concepts.
+
+### GoExplore Product Analysis
+
+Product performance and data-quality analysis using BigQuery, Looker Studio, and Google Sheets.
 
 ### Mushroom Classifier
 
-A safety-focused classification project where false-negative risk is especially important.
-
-### Data Visualization Projects
-
-Dashboards and visual analytics projects using Python, Power BI, Excel, and business intelligence tools.
+A safety-focused classification project where false-negative risk and evaluation quality are especially important.
 
 ---
 
-## What I’m Currently Working On
+## Current Work
 
-- Improving MLdeck as a privacy-first AutoML MVP
+- Improving MLdeck as a browser-local privacy-first AutoML MVP
 - Adding stronger validation and trust layers to MLdeck
-- Building practical AI and ML projects
-- Expanding my skills in machine learning, Azure, and data engineering
-- Creating clear reports and explainable outputs for machine learning users
-- Connecting my long IT and BI background with modern AI product development
+- Building practical machine learning and AI projects
+- Expanding skills in machine learning, Azure, and data engineering
+- Creating clear reports and explainable outputs for ML users
+- Connecting long IT and BI experience with modern AI product development
 
 ---
 
-## Licenses & Certifications
+## Certifications Snapshot
 
-### Data Science, AI & Machine Learning
-
-- Generative AI: Prompt Engineering — IBM / Coursera, May 2026
-- Generative AI Essentials — IBM / Coursera, May 2026
-- Artificial Intelligence Essentials V2 — IBM / Coursera, May 2026
-- IBM Data Science Professional Certificate — IBM / Coursera, Apr 2026
-- Generative AI Essentials for Data Science — IBM / Coursera, Apr 2026
-- Applied Data Science Capstone — IBM / Coursera, Apr 2026
-- Data Visualization with Python — IBM / Coursera, Apr 2026
-- Machine Learning with Python — IBM / Coursera, Mar 2026
-- Microsoft Certified: Azure Data Fundamentals — Microsoft, Jan 2026
-- Data Analysis with Python — IBM / Coursera, Nov 2025
-- PCEP™ – Certified Entry-Level Python Programmer — Python Institute, Oct 2025
-- Python for Data Science, AI & Development — IBM / Coursera, Oct 2025
-- The Data Science of Experimental Design — LinkedIn, Oct 2025
-- Statistics Foundations 1: The Basics — NASBA, Sep 2025
-- Python Project for Data Science — Coursera, Oct 2022
-- Tools for Data Science — Coursera, Oct 2022
-- Data Science Certificate — Kiron Open Higher Education, Jan 2022
-- Data Science Orientation — Coursera, Jan 2022
-- What is Data Science? — Coursera, Jan 2022
-- Data Science Methodology — Coursera, Nov 2021
-- Databases and SQL for Data Science with Python — Coursera, Nov 2021
-- Data Fluency: Exploring and Describing Data — LinkedIn, Jan 2022
-- Using Databases with Python — Coursera, Jan 2022
-- Retrieving, Processing, and Visualizing Data with Python — Coursera, Feb 2022
-- Python Data Structures — Coursera, Dec 2021
-- Using Python to Access Web Data — Coursera, Dec 2021
-
-### Business Intelligence & Excel
-
-- Excel Skills for Business: Essentials, Intermediate I, Intermediate II, Advanced — Coursera, 2021
-- Applied Power BI and dashboard projects
-
-### Software Development
-
-- Java Programming — ReDI School of Digital Integration, Jul 2021
-
-### IT, Networking & Cybersecurity
-
-- IT Security: Defense Against the Digital Dark Arts — Google, Nov 2020
-- System Administration and IT Infrastructure Services — Google, Nov 2020
-- Cybersecurity Essentials — Cisco, Oct 2020
-- Operating Systems and You: Becoming a Power User — Google, Oct 2020
-- Technical Support Fundamentals — Google, Sep 2020
-- The Bits and Bytes of Computer Networking — Google, Sep 2020
-- Introduction to Cybersecurity — Cisco Networking Academy, Aug 2020
-- Introduction to Packet Tracer — Cisco Networking Academy, Jan 2020
-
-### Languages
-
-- German B2 — telc GmbH, Jun 2021
+- IBM Data Science Professional Certificate
+- Machine Learning with Python — IBM / Coursera
+- Data Analysis with Python — IBM / Coursera
+- Data Visualization with Python — IBM / Coursera
+- Generative AI and Prompt Engineering — IBM / Coursera
+- Microsoft Certified: Azure Data Fundamentals
+- PCEP — Certified Entry-Level Python Programmer
+- Google IT Support / System Administration / IT Security
+- Cisco Cybersecurity Essentials
+- German B2 — telc
 - English C1 — BA in English
-- Workplace English Course — EnglishScore, Aug 2020
-- How to Be an Online Learner — Kiron Open Higher Education, Aug 2020
 
 ---
 
 ## GitHub Stats
 
-![Reza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=metalmancode&show_icons=true&theme=radical)
+Reza's GitHub Stats
 
 ---
 
-## Connect With Me
+## Connect
 
-- LinkedIn: [Reza Rashidi](https://www.linkedin.com/in/reza-r-759803171/)
-- GitHub: [metalmancode](https://github.com/metalmancode)
+- LinkedIn: https://www.linkedin.com/in/reza-r-759803171/
+- GitHub: https://github.com/metalmancode
+- MLdeck: https://mldeck.com/
+- MLdeck public documentation: https://github.com/metalmancode/mldeck
 
 ---
 
-**Building practical, privacy-aware AI and machine learning tools from real-world data.**
+Building practical, privacy-aware AI and machine learning tools from real-world data.
