@@ -47,14 +47,15 @@ This combination allows me to build tools that are technically meaningful, under
 
 ## Featured Project: MLdeck
 
-### Browser-Based Privacy-First AutoML
+MLdeck is my browser-local, privacy-first AutoML MVP / early beta for CSV-based machine learning workflows.
 
-**MLdeck** is my main AI/ML product project.
+It supports CSV upload, profiling, feature and target selection, preprocessing, model comparison, baseline comparison, data-quality warnings, and export artifacts for validation/testing.
 
-It started as my final Data Science and AI course project and is now evolving into a serious MVP / early beta product.
-
-MLdeck is a no-code / low-code AutoML application designed for users who want to explore machine learning without sending their raw CSV data to a server.
-
+- Website: https://mldeck.com/
+- Public documentation: https://github.com/metalmancode/mldeck
+- Browser-based AutoML: https://mldeck.com/browser-based-automl
+- Privacy-first AutoML: https://mldeck.com/privacy-first-automl
+- ONNX export workflow: https://mldeck.com/examples/onnx-export-workflow
 The core principle:
 
 **Your data stays on your computer.**
