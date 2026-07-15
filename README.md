@@ -1,124 +1,126 @@
-# Reza Rashidi
+# Gholamreza (Reza) Rashidi Ardestani
 
-Data Scientist & AI/ML Developer focused on practical machine learning, AutoML, data analysis, and privacy-aware AI products.
+Founder and builder of [MLdeck](https://mldeck.com/), focused on browser-local
+machine learning, privacy-aware AutoML, ONNX model workflows, WebAssembly, data
+analysis, and practical open-source engineering.
 
-I bring 20+ years of professional experience across IT, business intelligence, software development, data analysis, and systems architecture. My current work focuses on building practical machine learning tools that connect real-world business data with usable AI/ML workflows.
+I bring more than 20 years of professional experience across IT, business
+intelligence, software development, data analysis, and systems architecture. My
+current work connects that experience with usable machine-learning products and
+open-source infrastructure.
 
-My main product project is MLdeck, a browser-local, privacy-first AutoML MVP / early beta for CSV-based machine learning workflows.
+## Current Highlights
+
+- **Founder and builder of MLdeck** — browser-local, privacy-first AutoML for
+  CSV-based machine-learning workflows.
+- **ONNX Member Company** — MLdeck is listed on the
+  [official ONNX website](https://onnx.ai/) as a Member Company. See the
+  [accepted member-company contribution](https://github.com/onnx/onnx.github.io/pull/241).
+- **ONNX upstream contributor** — authored the accepted
+  [Python 3.14 Pyodide wheel contribution](https://github.com/onnx/onnx/pull/8192)
+  for the official ONNX build and release workflow.
+- **Browser-local ONNX engineering** — published a reproducible
+  [ONNX-for-Pyodide project](https://github.com/metalmancode/onnx-pyodide) with
+  an [end-to-end browser proof](https://metalmancode.github.io/onnx-pyodide/demo/).
 
 ---
 
-## Main Project: MLdeck
+## Main Product: MLdeck
 
-MLdeck helps users upload CSV data, inspect datasets, select features and targets, train and compare models, review baseline performance, detect data-quality and leakage risks, generate reports, and export validation-oriented artifacts.
+MLdeck helps users inspect CSV datasets, select features and targets, train and
+compare models, review baseline performance, identify data-quality and leakage
+risks, generate reports, and prepare validation-oriented export artifacts.
 
-During normal browser training flows, raw CSV data is not uploaded to MLdeck servers.
+During normal browser training flows, raw CSV data is not uploaded to MLdeck
+servers. Exported artifacts should still be independently validated before use
+outside MLdeck.
+
+### Product and Documentation
 
 - Website: https://mldeck.com/
 - Public documentation: https://github.com/metalmancode/mldeck
 - Browser-based AutoML: https://mldeck.com/browser-based-automl
 - Privacy-first AutoML: https://mldeck.com/privacy-first-automl
 - Local AutoML for CSV: https://mldeck.com/local-automl-csv
+- Train machine-learning models in the browser: https://mldeck.com/train-ml-model-in-browser
+- AutoML without uploading raw CSV data: https://mldeck.com/automl-without-uploading-data
+- Export ONNX from the browser: https://mldeck.com/export-onnx-browser
 - ONNX export workflow: https://mldeck.com/examples/onnx-export-workflow
 - Local AutoML vs Cloud AutoML: https://mldeck.com/compare/local-automl-vs-cloud-automl
 
-Maturity note: MLdeck results should be treated as exploratory unless strict validation has been run. Exported artifacts should be tested before use outside MLdeck.
+---
+
+## Featured Open-Source Work
+
+### ONNX for Pyodide
+
+A reproducible WebAssembly build of the ONNX Python package for Pyodide, plus
+an end-to-end browser proof covering local model training, conversion with
+`skl2onnx`, ONNX graph validation and serialization, ONNX Runtime Web inference,
+and model download.
+
+- Repository: https://github.com/metalmancode/onnx-pyodide
+- Live browser proof: https://metalmancode.github.io/onnx-pyodide/demo/
+- Official ONNX contribution: https://github.com/onnx/onnx/pull/8192
+- MLdeck member-company contribution: https://github.com/onnx/onnx.github.io/pull/241
+
+### MLdeck Public Documentation
+
+Public-safe product documentation, examples, architectural notes, validation
+limits, and browser-local AutoML workflows.
+
+- Repository: https://github.com/metalmancode/mldeck
+- Product: https://mldeck.com/
 
 ---
 
 ## Professional Focus
 
-- Applied machine learning and AutoML
-- CSV-based machine learning workflows
-- Data preprocessing and feature engineering
-- Model evaluation, baseline comparison, and validation
-- Data-quality and target-leakage awareness
-- Explainability, reporting, and export artifacts
-- Business intelligence and KPI reporting
-- Privacy-aware data products
-- AI-assisted software development
-- Practical tools for analysts, students, educators, and small teams
-
----
+- Browser-local machine learning and privacy-aware AutoML
+- ONNX model construction, export, validation, and runtime workflows
+- Pyodide, WebAssembly, Python packaging, and cross-compilation
+- Applied machine learning for tabular and CSV data
+- Data preprocessing, feature engineering, and leakage-risk review
+- Model evaluation, baseline comparison, explainability, and reporting
+- Data quality, validation evidence, and portable model artifacts
+- Business intelligence, KPI reporting, and data-product architecture
+- AI-assisted software engineering and technical documentation
 
 ## Technical Skills
 
-Data Science & ML: Python, Pandas, NumPy, Scikit-learn, Jupyter, classification, regression, exploratory data analysis, preprocessing, feature engineering, model evaluation, baseline modeling, validation concepts, leakage-risk review, explainability concepts, AutoML workflows.
+**Machine Learning and Data:** Python, Pandas, NumPy, Scikit-learn, Jupyter,
+classification, regression, exploratory data analysis, preprocessing, feature
+engineering, model evaluation, AutoML, and validation workflows.
 
-AI & Generative AI: prompt engineering, generative AI workflows, retrieval-augmented generation concepts, AI-assisted development, practical AI application design, AI product thinking.
+**Browser ML and Interoperability:** ONNX, ONNX Runtime Web, Pyodide,
+WebAssembly, `skl2onnx`, browser-local execution, and portable model artifacts.
 
-Programming & Web: TypeScript, JavaScript, SQL, HTML/CSS, software architecture, technical documentation, user-oriented product workflows.
+**Programming and Web:** TypeScript, JavaScript, SQL, HTML/CSS, software
+architecture, APIs, testing, and technical documentation.
 
-BI & Data Platforms: Power BI, Looker Studio, BigQuery, Excel, Google Sheets, dashboards, reporting systems, ETL/ELT concepts, KPI analysis, business data modeling.
+**BI and Data Platforms:** Power BI, Looker Studio, BigQuery, Excel, Google
+Sheets, dashboards, ETL/ELT concepts, KPI analysis, and business data modeling.
 
-Cloud, Microsoft & IT Systems: Microsoft Azure, Azure Data Fundamentals, Power Platform, Office 365, SharePoint, IT architecture, infrastructure administration, network administration, process optimization, business-IT alignment.
-
----
-
-## Pinned Projects
-
-### MLdeck — Browser-Local Privacy-First AutoML
-
-Public documentation and examples for MLdeck, my browser-local privacy-first AutoML product for CSV workflows.
-
-- Product website: https://mldeck.com/
-- Browser-based AutoML: https://mldeck.com/browser-based-automl
-- Privacy-first AutoML: https://mldeck.com/privacy-first-automl
-
-### RAG Project
-
-A retrieval-augmented generation experiment focused on combining external knowledge retrieval with generative AI responses.
-
-### Basic Chatbot
-
-A Python chatbot project focused on basic conversational interaction and practical AI workflow experimentation.
-
-### Basic Chatbot Upgraded
-
-An upgraded chatbot implementation extending the earlier chatbot workflow with improved structure and interaction design.
-
-### Emotion Detection
-
-A Python-based machine learning project focused on text or input classification for emotion detection.
-
-### Voice Assistant
-
-A web-based AI voice assistant using speech-to-text, text-to-speech, and GPT-based interaction.
+**Cloud and IT Systems:** Microsoft Azure, Azure Data Fundamentals, Power
+Platform, Office 365, SharePoint, IT architecture, infrastructure
+administration, and process optimization.
 
 ---
 
 ## Additional Selected Projects
 
-### SpaceX Falcon 9 Landing Prediction
-
-IBM Data Science capstone project using classification techniques to predict Falcon 9 landing outcomes.
-
-### Australia Rainfall Prediction
-
-A machine learning classification project using Scikit-learn pipelines, model comparison, and GridSearchCV for weather-related prediction.
-
-### Bee-Haven Azure Lakehouse
-
-Azure data lakehouse project for apiculture analytics using Azure Data Factory and Synapse-oriented data architecture concepts.
-
-### GoExplore Product Analysis
-
-Product performance and data-quality analysis using BigQuery, Looker Studio, and Google Sheets.
-
-### Mushroom Classifier
-
-A safety-focused classification project where false-negative risk and evaluation quality are especially important.
-
----
-
-## Current Work
-
-- Improving MLdeck as a browser-local privacy-first AutoML MVP
-- Adding stronger validation and trust layers to MLdeck
-- Building practical machine learning and AI projects
-- Expanding skills in machine learning, Azure, and data engineering
-- Creating clear reports and explainable outputs for ML users
-- Connecting long IT and BI experience with modern AI product development
+- [SpaceX Falcon 9 Landing Prediction](https://github.com/metalmancode/SpaceX-Falcon9-Landing-Prediction)
+  — classification-based IBM Data Science capstone project.
+- [Australia Rainfall Prediction](https://github.com/metalmancode/australia-rainfall-prediction)
+  — Scikit-learn pipelines, model comparison, and hyperparameter search.
+- [Mushroom Classifier](https://github.com/metalmancode/mushroom-classifier)
+  — safety-focused classification with asymmetric error considerations.
+- [Bee-Haven Azure Lakehouse](https://github.com/metalmancode/Bee-Haven-Azure-Lakehouse)
+  — Azure data lakehouse architecture for apiculture analytics.
+- [GoExplore Product Analysis](https://github.com/metalmancode/GoExplore-Product-Analysis)
+  — BigQuery, Looker Studio, and data-quality analysis.
+- [RAG Project](https://github.com/metalmancode/RAG-Project)
+  — retrieval-augmented generation experiment.
 
 ---
 
@@ -138,19 +140,15 @@ A safety-focused classification project where false-negative risk and evaluation
 
 ---
 
-## GitHub Stats
-
-Reza's GitHub Stats
-
----
-
 ## Connect
 
 - LinkedIn: https://www.linkedin.com/in/reza-r-759803171/
 - GitHub: https://github.com/metalmancode
 - MLdeck: https://mldeck.com/
 - MLdeck public documentation: https://github.com/metalmancode/mldeck
+- Collaboration: contact@mldeck.com
 
 ---
 
-Building practical, privacy-aware AI and machine learning tools from real-world data.
+Building practical, privacy-aware machine-learning products and contributing
+the underlying engineering back to the open-source community.
